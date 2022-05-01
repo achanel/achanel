@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://badge42.vercel.app/api/v2/cl2n6w34y002509jsjvq2r40x/stats?cursusId=21&coalitionId=97
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2n6w34y002509jsjvq2r40x/stats?cursusId=21&coalitionId=97" alt="achanel's 42 stats" /></a>
