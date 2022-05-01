@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 https://badge42.vercel.app/api/v2/cl2n6w34y002509jsjvq2r40x/stats?cursusId=21&coalitionId=104
+[![achanel's 42 stats](https://badge42.vercel.app/api/v2/cl2n6w34y002509jsjvq2r40x/stats?cursusId=21&coalitionId=104)](https://github.com/JaeSeoKim/badge42)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2n6w34y002509jsjvq2r40x/stats?cursusId=21&coalitionId=104" alt="achanel's 42 stats" /></a>
